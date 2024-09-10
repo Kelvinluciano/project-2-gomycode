@@ -83,3 +83,11 @@ Sample ZAP Report
 <img width="1440" alt="Screenshot 2024-09-10 at 1 40 57 PM" src="https://github.com/user-attachments/assets/2750c00a-c4bd-4abe-a429-c484c25272e0">
 <img width="1440" alt="Screenshot 2024-09-10 at 1 41 04 PM" src="https://github.com/user-attachments/assets/8ee51354-828b-4840-a480-08b6294ec0a7">
 <img width="1440" alt="Screenshot 2024-09-10 at 1 41 09 PM" src="https://github.com/user-attachments/assets/cb8f3bab-2543-4506-8860-65b8deca803a">
+
+final step
+Next Steps
+Review and Fix: Investigate the vulnerabilities reported by ZAP and apply appropriate fixes.
+
+Re-Test: Run another security scan to ensure that the vulnerabilities have been addressed.
+
+Continuous Monitoring: Regularly test your application for vulnerabilities, especially after making updates or changes.
