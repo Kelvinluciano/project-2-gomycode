@@ -70,3 +70,5 @@ Elapsed: The time taken to complete the test.
 Reqs: Number of requests made during the test.
 Alerts: Number of alerts triggered.
 
+Sample ZAP Report
+
