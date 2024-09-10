@@ -56,4 +56,5 @@ the attack button
 <img width="1440" alt="Screenshot 2024-09-10 at 1 05 40 PM" src="https://github.com/user-attachments/assets/60c05d3d-756f-40a4-b0c5-76c71b5e7252">
 
 Spidering: Use the Spider tool to discover all the pages and endpoints of your application.
+<img width="1440" alt="Screenshot 2024-09-10 at 12 51 26 PM" src="https://github.com/user-attachments/assets/d17e1f98-5132-4096-b7c1-73ee7d6c244f">
 
