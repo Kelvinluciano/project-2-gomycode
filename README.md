@@ -53,3 +53,6 @@ Target Application:
 Set the target URL to your deployed web service's URL on Render. Enter the url to attack then click 
 the attack button
 
+<img width="1440" alt="Screenshot 2024-09-10 at 1 05 40 PM" src="https://github.com/user-attachments/assets/60c05d3d-756f-40a4-b0c5-76c71b5e7252">
+
+Spidering: Use the Spider tool to discover all the pages and endpoints of your application.
