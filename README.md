@@ -57,4 +57,7 @@ the attack button
 
 Spidering: Use the Spider tool to discover all the pages and endpoints of your application.
 <img width="1440" alt="Screenshot 2024-09-10 at 12 51 26 PM" src="https://github.com/user-attachments/assets/d17e1f98-5132-4096-b7c1-73ee7d6c244f">
+Active Scan: Perform an active scan to detect potential vulnerabilities.
+
+On click the attack starts , you can view details about the attack below
 
