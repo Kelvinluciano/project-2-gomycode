@@ -60,6 +60,6 @@ Spidering: Use the Spider tool to discover all the pages and endpoints of your a
 Active Scan: Perform an active scan to detect potential vulnerabilities.
 
 On click the attack starts , you can view details about the attack below
-
+<img width="1434" alt="Screenshot 2024-09-10 at 1 21 23 PM" src="https://github.com/user-attachments/assets/18d28848-b92b-441d-ba3c-436ae2e7c4dd">
 
 
