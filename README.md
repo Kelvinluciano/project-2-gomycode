@@ -37,14 +37,19 @@ Render will start building and deploying your application. You can monitor the d
 Logs: You can view logs for your service in the Render dashboard to monitor the application's status and debug issues.
 Automatic Deploys: Render can automatically deploy updates when you push new changes to the connected GitHub branch.
 Conclusion
+
 You have successfully deployed your web service to Render using GitHub. For more detailed instructions and advanced configurations, refer to the Render documentation.
 Carrying out a web app security test with ZAP
 After deploying the web service, it's crucial to ensure it is secure and free from vulnerabilities
+ 
  The following steps outline how to use OWASP ZAP (Zed Attack Proxy) for security testing. We would be using ZAP website
+
 Setting Up OWASP ZAP
 Download and Install: Download OWASP ZAP and follow the installation instructions for your operating system.
+
 Start OWASP ZAP: Launch the application and familiarize yourself with its interface.
 Running a Security Scan
 Target Application:
 Set the target URL to your deployed web service's URL on Render. Enter the url to attack then click 
 the attack button
+
