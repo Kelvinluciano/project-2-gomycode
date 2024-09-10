@@ -61,5 +61,12 @@ Active Scan: Perform an active scan to detect potential vulnerabilities.
 
 On click the attack starts , you can view details about the attack below
 <img width="1434" alt="Screenshot 2024-09-10 at 1 21 23 PM" src="https://github.com/user-attachments/assets/18d28848-b92b-441d-ba3c-436ae2e7c4dd">
+Understanding the ZAP Report
+Here is a summary of a ZAP scan report:
 
+Strength: The severity level of the test.
+Progress: The progress of the test.
+Elapsed: The time taken to complete the test.
+Reqs: Number of requests made during the test.
+Alerts: Number of alerts triggered.
 
